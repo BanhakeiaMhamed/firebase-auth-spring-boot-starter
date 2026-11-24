@@ -12,7 +12,7 @@
 
     <groupId>io.github.banhakeiamhamed</groupId>
     <artifactId>firebase-auth-spring-boot-starter</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <name>firebase-auth-spring-boot-starter</name>
     <description>Spring Boot starter — authentification Firebase réutilisable (vérification du token, rôles, socle Spring Security)</description>
     <url>https://github.com/BanhakeiaMhamed/firebase-auth-spring-boot-starter</url>

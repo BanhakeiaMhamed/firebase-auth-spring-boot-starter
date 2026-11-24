@@ -23,13 +23,13 @@ JitPack compile le dépôt GitHub à la demande, sans compte ni jeton côté uti
 </repositories>
 ```
 
-**2. Ajouter la dépendance** (la version est le nom du tag Git, ex. `v0.1.0`) :
+**2. Ajouter la dépendance** (la version est le nom du tag Git, ex. `v0.1.1`) :
 
 ```xml
 <dependency>
     <groupId>com.github.BanhakeiaMhamed</groupId>
     <artifactId>firebase-auth-spring-boot-starter</artifactId>
-    <version>v0.1.0</version>
+    <version>v0.1.1</version>
 </dependency>
 ```
 
@@ -45,7 +45,7 @@ Pour tester une modification locale, installer le starter dans le dépôt Maven 
 ./mvnw clean install
 ```
 
-Il est alors disponible sous `io.github.banhakeiamhamed:firebase-auth-spring-boot-starter:0.1.0`
+Il est alors disponible sous `io.github.banhakeiamhamed:firebase-auth-spring-boot-starter:0.1.1`
 (coordonnées du `pom.xml`, différentes de celles de JitPack).
 
 ## Configuration
